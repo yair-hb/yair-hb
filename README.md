@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yair-hb&label=Profile%20views&color=0e75b6&style=flat" alt="yair-hb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yair-hb" alt="yair-hb" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yair hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yair hernandez" height="30" width="40" /></a>
@@ -21,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yair-hb&show_icons=true&locale=en&layout=compact" alt="yair-hb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yair-hb&show_icons=true&locale=en" alt="yair-hb" /></p>
